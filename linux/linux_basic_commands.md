@@ -14,7 +14,7 @@
 
 ### Superuser permissions
 
-1. `ssh <server address>`: This command is used to make connection to a remote Linux computer.
+1. `sudo`: This command is used to perform actions that require superuser (admin) permissions.
 
 ### Creating and changing directories
 
