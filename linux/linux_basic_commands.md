@@ -70,7 +70,7 @@
 
 2. `tar`: Tar is an archiver which means it can archive multiple files into a single file. But it does not apply compression by default. Usage:
 - Archive without compression: `tar -cvf <filename>.tar directory`
-- Archive and then compress: `tar -cvzf <filename>.tar,gz directory`
+- Archive and then compress: `tar -cvzf <filename>.tar.gz directory`
 - Extract files from an archive (uncompressed): `tar -xvf <filename>.tar`
 - Extract files from a compressed archive: `tar -xvzf <filename>.tar.gz`
 
